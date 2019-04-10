@@ -54,6 +54,7 @@
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
+    <resource-file src="google-services.json" target="google-services.json" />
     <content src="index.html" />
     <splash platform="android" src="splash.png" />
     <splash platform="android" qualifier="port-ldpi" src="res/screen/android/splash-port-ldpi-screen.png" />

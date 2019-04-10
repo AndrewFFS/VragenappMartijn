@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Apr 10 21:08:18 CEST 2019
+#Wed Apr 10 21:33:35 CEST 2019
 124.path=www/plugins/cordova-plugin-file/www/fileSystems.js
 60.set=ASSET
 52.set=ASSET
