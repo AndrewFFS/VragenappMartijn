@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">617413481250-moitialfvnfghqm0hanrr632hkr3b6q5.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://vragenapp-3c867.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">617413481250</string>
+    <string name="google_api_key" translatable="false">AIzaSyAcAKaSAKjamoQk1EJjI2c0X2Vz3C7jYvU</string>
+    <string name="google_app_id" translatable="false">1:617413481250:android:10c8c453b8981035</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAcAKaSAKjamoQk1EJjI2c0X2Vz3C7jYvU</string>
+    <string name="google_storage_bucket" translatable="false">vragenapp-3c867.appspot.com</string>
+</resources>
