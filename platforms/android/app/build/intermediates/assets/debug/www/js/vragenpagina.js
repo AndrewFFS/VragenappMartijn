@@ -5,7 +5,7 @@ var current;
 // variable which will be filled with previous questions
 var previous;
 // url variable with questions
-var url = "http://arranji330.330.axc.nl/Vragenapp_Versie_2.1/vragenpagina/";
+var url = "http://vragenapp.hybrideonderwijs.nl/vragenpagina/";
 
 /**
  * Function to fill the page with questions or with a "Er zijn op dit moment geen vragen" message
@@ -146,7 +146,7 @@ $(document).on('click', "#submitOpenvraag", function () {
     // ajax function
     $.ajax({
         // url to send data to
-        url: "http://arranji330.330.axc.nl/Vragenapp_Versie_2.1/afhandelpagina/",
+        url: "http://vragenapp.hybrideonderwijs.nl/afhandelpagina/",
         // type post because it sends data
         type: 'POST',
         // allow to send data to a other domain
@@ -183,7 +183,7 @@ $(document).on('click', "#submitGeslotenvraag", function () {
     var dataString = "userAnswer=" + inputtedUserAnswer + "&userId=" + userId + "&vraagId=" + vraagId + "&voegAntwoordToe=";
     $.ajax({
         // url to send data to
-        url: "http://arranji330.330.axc.nl/Vragenapp_Versie_2.1/afhandelpagina/",
+        url: "http://vragenapp.hybrideonderwijs.nl/afhandelpagina/",
         // type post because it sends data
         type: 'POST',
         // allow to send data to a other domain

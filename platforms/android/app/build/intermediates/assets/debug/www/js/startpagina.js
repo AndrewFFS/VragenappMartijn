@@ -3,7 +3,7 @@
  */
 $(document).ready(function () {
     // get JSON from server page function
-    $.getJSON("http://arranji330.330.axc.nl/Vragenapp_Versie_2.1/clusters-en-opleidingen/", function (data) {
+    $.getJSON("http://vragenapp.hybrideonderwijs.nl/clusters-en-opleidingen/", function (data) {
         // empty prevCluster variable to prevent duplicate clusters
         var prevCluster = "";
         // for each json data create option element with cluster value
@@ -49,7 +49,7 @@ $('#startButton').click(function () {
         var dataString = "educationId=" + selectedEducationId + "&userId=" + userId + "&user_created=" + dateTime + "&voegGebruikerToe=";
         $.ajax({
             // url to send data to
-            url: "http://arranji330.330.axc.nl/Vragenapp_Versie_2.1/afhandelpagina/",
+            url: "http://vragenapp.hybrideonderwijs.nl/afhandelpagina/",
             // post the data
             type: 'POST',
             // allow sending data to other domain
@@ -98,7 +98,7 @@ $('#sel1').on('change', function () {
     // enable select field
     $("#sel2").prop('disabled', false);
     // get clusters and educations
-    $.getJSON("http://arranji330.330.axc.nl/Vragenapp_Versie_2.1/clusters-en-opleidingen/", function (data) {
+    $.getJSON("http://vragenapp.hybrideonderwijs.nl/clusters-en-opleidingen/", function (data) {
         //foreach json data fill #sel2 with education options
         $.each(data, function (i, data) {
             // if statement to only add educations that belong to the selected cluster

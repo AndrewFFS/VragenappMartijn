@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 provider#android.support.v4.content.FileProvider
-INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:12:9-14:20
+INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:12:9-14:20
 	android:grantUriPermissions
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:12:92-126
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:12:92-126
 	android:authorities
-		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:12:19-66
+		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:12:19-66
 	android:exported
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:12:67-91
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:12:67-91
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:12:127-181
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:12:127-181
 manifest
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:2:1-42:12
 MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\e92c1c578b801dde0029c06806345329\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.6.0.aar\270400fdbb445443466945c981d91810\AndroidManifest.xml:17:1-37:12
 MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\2c87fa7b6931e3dbd17f933a077c1174\AndroidManifest.xml:2:1-9:12
@@ -34,48 +34,48 @@ MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Us
 MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\cb2c612648109c5755912cbb1c2faf2f\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\f186050a0cc523e0db4a98469e7f65bc\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\57e00e0c6b6f13b41409b03d1cd7afa8\AndroidManifest.xml:17:1-31:12
-MERGED from [:CordovaLib] C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [:CordovaLib] C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7c2e79d9e8a3c7a3970a0372f6326164\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\bbb85b8a97bb6dab1a231cd62644e169\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c88ed58b8c948304fad772a8ada44569\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2687299663af32bdd41981e05f5909cb\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d0fcf81c398b60378728b921d234f495\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b4ef96caab1c59f372638b671cd55119\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:2:1-42:12
 	package
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:2:102-134
-		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:2:102-134
+		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
-		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml
 	android:hardwareAccelerated
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
 	xmlns:android
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:2:135-193
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:2:135-193
 	android:versionCode
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
-		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml
 supports-screens
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
 	android:largeScreens
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
 	android:smallScreens
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
 	android:normalScreens
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
 	android:xlargeScreens
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
 	android:resizeable
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
 	android:anyDensity
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\80984df33d505eb155abb952a6ad3e22\AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\80984df33d505eb155abb952a6ad3e22\AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.2.aar\18095aa76762cf5d5f55b01fd8d0dac5\AndroidManifest.xml:23:5-67
@@ -87,9 +87,9 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\5edf606152a289007abf25ba6bc1bcfd\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\5edf606152a289007abf25ba6bc1bcfd\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:5:5-31:19
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:5:5-31:19
 MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\e92c1c578b801dde0029c06806345329\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\e92c1c578b801dde0029c06806345329\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.6.0.aar\270400fdbb445443466945c981d91810\AndroidManifest.xml:22:5-35:19
@@ -141,80 +141,80 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Arran Crowley\.
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b4ef96caab1c59f372638b671cd55119\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b4ef96caab1c59f372638b671cd55119\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
 	android:label
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:5:81-113
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:5:81-113
 	android:hardwareAccelerated
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
 	android:icon
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
 activity#com.phonegap.vragenapp.MainActivity
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
 	android:label
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
 	android:launchMode
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:6:135-165
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:6:135-165
 	android:windowSoftInputMode
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:6:257-299
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:6:257-299
 	android:configChanges
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:6:19-96
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:6:19-96
 	android:theme
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:6:194-256
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:6:194-256
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:6:166-193
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:6:166-193
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
 	android:label
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
 action#android.intent.action.MAIN
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
 activity#com.gae.scaffolder.plugin.FCMPluginActivity
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:15:9-20:20
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:15:9-20:20
 	android:launchMode
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:15:43-73
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:15:43-73
 	android:exported
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:15:19-42
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:15:19-42
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:15:74-132
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:15:74-132
 intent-filter#FCM_PLUGIN_ACTIVITY+android.intent.category.DEFAULT
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:16:13-19:29
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:16:13-19:29
 action#FCM_PLUGIN_ACTIVITY
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:17:17-62
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:17:17-62
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:17:25-59
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:17:25-59
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:18:17-76
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:18:17-76
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:18:27-73
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:18:27-73
 service#com.gae.scaffolder.plugin.MyFirebaseMessagingService
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:21:9-25:19
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:21:9-25:19
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:21:18-85
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:21:18-85
 intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:22:13-24:29
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:22:13-24:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:23:17-78
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:23:17-78
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:23:25-75
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:23:25-75
 service#com.gae.scaffolder.plugin.MyFirebaseInstanceIDService
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:26:9-30:19
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:26:9-30:19
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:26:18-86
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:26:18-86
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:27:13-29:29
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:27:13-29:29
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:28:17-80
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:28:17-80
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:28:25-77
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:28:25-77
 uses-sdk
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:32:5-74
-INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:32:5-74
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:32:5-74
+INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:32:5-74
 MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\e92c1c578b801dde0029c06806345329\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\e92c1c578b801dde0029c06806345329\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.6.0.aar\270400fdbb445443466945c981d91810\AndroidManifest.xml:20:5-44
@@ -253,8 +253,8 @@ MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Arra
 MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\f186050a0cc523e0db4a98469e7f65bc\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\57e00e0c6b6f13b41409b03d1cd7afa8\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\57e00e0c6b6f13b41409b03d1cd7afa8\AndroidManifest.xml:21:5-23:54
-MERGED from [:CordovaLib] C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
-MERGED from [:CordovaLib] C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7c2e79d9e8a3c7a3970a0372f6326164\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7c2e79d9e8a3c7a3970a0372f6326164\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\bbb85b8a97bb6dab1a231cd62644e169\AndroidManifest.xml:21:5-23:60
@@ -267,45 +267,45 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Arran Crowley\.
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d0fcf81c398b60378728b921d234f495\AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b4ef96caab1c59f372638b671cd55119\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b4ef96caab1c59f372638b671cd55119\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:32:5-74
+INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:32:5-74
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\57e00e0c6b6f13b41409b03d1cd7afa8\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:32:42-71
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:32:42-71
 	android:minSdkVersion
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:32:15-41
-		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:32:15-41
+		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:33:5-81
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:33:5-81
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:33:22-78
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:33:22-78
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:34:5-81
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:34:5-81
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:34:22-78
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:34:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:35:5-79
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:35:5-79
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:35:22-76
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:35:22-76
 uses-feature#android.hardware.location.gps
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:36:5-66
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:36:5-66
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:36:19-63
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:36:19-63
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:37:5-71
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:37:5-71
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:37:22-68
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:37:22-68
 uses-permission#android.permission.RECORD_VIDEO
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:38:5-71
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:38:5-71
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:38:22-68
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:38:22-68
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:39:5-80
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:39:5-80
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:39:22-77
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:39:22-77
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:40:5-79
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:40:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\80984df33d505eb155abb952a6ad3e22\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\80984df33d505eb155abb952a6ad3e22\AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.2.aar\18095aa76762cf5d5f55b01fd8d0dac5\AndroidManifest.xml:22:5-79
@@ -317,17 +317,17 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\5edf606152a289007abf25ba6bc1bcfd\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\5edf606152a289007abf25ba6bc1bcfd\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:40:22-76
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:40:22-76
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:41:5-66
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:41:5-66
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:41:22-63
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:41:22-63
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:13:13-116
+ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:13:13-116
 	android:resource
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:13:75-113
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:13:75-113
 	android:name
-		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenapp\platforms\android\app\src\main\AndroidManifest.xml:13:24-74
+		ADDED from C:\Users\Arran Crowley\Desktop\VragenAppFinaVersionGIT\vragenappMartijn\platforms\android\app\src\main\AndroidManifest.xml:13:24-74
 service#com.google.firebase.messaging.FirebaseMessagingService
 ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\Arran Crowley\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.6.0.aar\270400fdbb445443466945c981d91810\AndroidManifest.xml:28:9-34:19
 	android:exported

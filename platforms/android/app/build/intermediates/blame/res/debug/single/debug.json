@@ -1,11 +1,15 @@
 [
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
@@ -72,6 +76,10 @@
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
@@ -86,6 +94,10 @@
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_remove.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
@@ -108,12 +120,16 @@
         "source": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_previous_item.png"
     },
     {
-        "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_remove.png.flat",
-        "source": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_remove.png"
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_remove.png"
     },
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -128,6 +144,10 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
@@ -140,8 +160,16 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
@@ -180,6 +208,10 @@
         "source": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_previous_item.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
@@ -188,12 +220,24 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_remove.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
@@ -206,6 +250,10 @@
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\620cbaa0e4fc787924c3476cc0df1b1a\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_previous_item.png"
     },
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
@@ -224,6 +272,10 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_screen.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\screen.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
@@ -234,6 +286,18 @@
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_previous_item.png.flat",
@@ -248,12 +312,24 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout\\notification_action.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_media_action.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
@@ -284,20 +360,24 @@
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
     },
     {
-        "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_screen.png.flat",
-        "source": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\screen.png"
+        "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_next_item.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_remove.png.flat",
         "source": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_screen.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\screen.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
@@ -316,12 +396,12 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
-        "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\color\\common_google_signin_btn_text_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -332,12 +412,16 @@
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\620cbaa0e4fc787924c3476cc0df1b1a\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
-        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
@@ -346,6 +430,10 @@
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
@@ -396,16 +484,36 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
@@ -418,6 +526,10 @@
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_previous_item.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -440,16 +552,24 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
-        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout-v21\\notification_action.xml"
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_next_item.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
@@ -508,6 +628,10 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon.png.flat",
         "source": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
     },
@@ -528,6 +652,10 @@
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_media_action.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
@@ -536,12 +664,24 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_remove.png.flat",
         "source": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
@@ -554,6 +694,18 @@
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
@@ -578,6 +730,10 @@
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_remove.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
@@ -608,8 +764,16 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_next_item.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_next_item.png.flat",
@@ -636,12 +800,16 @@
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_remove.png.flat",
-        "source": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_config.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
@@ -676,6 +844,10 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_media_action.xml"
     },
@@ -684,20 +856,40 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\620cbaa0e4fc787924c3476cc0df1b1a\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\620cbaa0e4fc787924c3476cc0df1b1a\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -772,6 +964,10 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
@@ -786,6 +982,14 @@
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
@@ -812,12 +1016,20 @@
         "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
@@ -828,12 +1040,32 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -844,8 +1076,20 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_remove.png.flat",
         "source": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon.png.flat",
@@ -856,8 +1100,20 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
@@ -884,12 +1140,24 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_next_item.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
@@ -904,12 +1172,20 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
@@ -932,8 +1208,16 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
@@ -964,6 +1248,10 @@
         "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_remove.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout\\notification_template_part_chronometer.xml"
     },
@@ -992,12 +1280,20 @@
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\620cbaa0e4fc787924c3476cc0df1b1a\\res\\drawable\\notification_tile_bg.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\620cbaa0e4fc787924c3476cc0df1b1a\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -1036,8 +1332,16 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -1068,6 +1372,14 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_remove.png.flat",
         "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
     },
@@ -1082,6 +1394,10 @@
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
@@ -1106,6 +1422,10 @@
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
@@ -1140,6 +1460,10 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
@@ -1154,6 +1478,10 @@
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -1172,6 +1500,10 @@
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_config.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
@@ -1186,6 +1518,10 @@
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
@@ -1206,6 +1542,10 @@
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -1276,6 +1616,10 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4305d5b1d995d7dbb2ef7df1520fa7cc\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
@@ -1298,6 +1642,10 @@
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_remove.png.flat",
         "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
@@ -1340,6 +1688,10 @@
         "source": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_next_item.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
@@ -1350,6 +1702,10 @@
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
@@ -1366,6 +1722,14 @@
     {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\970516d1a937b402b5107a6277597b12\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
@@ -1448,6 +1812,14 @@
         "source": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_remove.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\620cbaa0e4fc787924c3476cc0df1b1a\\res\\drawable\\notification_bg.xml"
     },
@@ -1496,8 +1868,16 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
         "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\970516d1a937b402b5107a6277597b12\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
@@ -1506,6 +1886,10 @@
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7c2e79d9e8a3c7a3970a0372f6326164\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
@@ -1556,6 +1940,10 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
         "merged": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon.png.flat",
         "source": "C:\\Users\\Gebruiker\\Desktop\\VragenApp\\Vragen_App\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
     },
@@ -1592,8 +1980,20 @@
         "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable\\notification_bg_low.xml"
     },
     {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d0fcf81c398b60378728b921d234f495\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_next_item.png.flat",
         "source": "C:\\Users\\Arran Crowley\\Desktop\\Vragen_App v2.3\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\Arran Crowley\\Desktop\\VragenAppFinaVersionGIT\\vragenappMartijn\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Arran Crowley\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1c991cef9ba958cc2208e0278e240c6a\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\Arran Crowley\\Desktop\\Vragenapp FINAL COPY\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_next_item.png.flat",

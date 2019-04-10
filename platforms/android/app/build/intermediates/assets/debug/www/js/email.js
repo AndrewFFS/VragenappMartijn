@@ -13,7 +13,7 @@ $(document).on('click', "#emailOpvragen", function () {
     // ajax function
     $.ajax({
         // url to send data to
-        url: "http://arranji330.330.axc.nl/Vragenapp_Versie_2.1/emailpagina/",
+        url: "http://vragenapp.hybrideonderwijs.nl/emailpagina/",
         // type post because it sends data
         type: 'POST',
         // allow to send data to a other domain
